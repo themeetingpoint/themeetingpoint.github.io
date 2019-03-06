@@ -2,7 +2,7 @@
  * Site header
  */
 .site-header {
-  border-top: 5px solid $grey-color-dark;
+  border-top: 5px solid $brand-color;
   border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
 
@@ -179,6 +179,10 @@
   padding: 0 $spacing-unit 0;
   flex: 1;
 
+  h2 {
+    margin-bottom: 0;
+  }
+
   .h-entry {
     margin-top: $spacing-unit;
   }
@@ -256,4 +260,70 @@
       @include relative-font-size(1.125);
     }
   }
+}
+
+.people-image {
+  float: right;
+  margin: 0 0 $spacing-unit $spacing-unit;
+
+  @include media-query($on-palm) {
+    margin: 0 auto $spacing-unit;
+    text-align: center;
+    float: none;
+  }
+}
+
+.contact-info {
+  border-top: 1px solid $grey-color-light;
+  border-bottom: 1px solid $grey-color-light;
+  margin-bottom: $spacing-unit;
+  padding: 6px 0;
+
+  i {
+    font-style: normal;
+    vertical-align: middle;
+    @include relative-font-size(1.25);
+  }
+  a {
+    @include relative-font-size(.9);
+  }
+}
+
+.back-link {
+  text-transform: uppercase;
+  margin-bottom: $spacing-unit;
+}
+
+.availability {
+  position: relative;
+  margin-top: 30px;
+  padding: 15px 18px 12px;
+  border: 1px solid $grey-color-light;
+  border-radius: 4px;
+  background-color: lighten($brand-color, 42%);
+  @include relative-font-size(.9);
+
+  span {
+    position: absolute;
+    top: 0;
+    left: 15px;
+    padding: 0 3px;
+    transform: translateY(-50%);
+    font-weight: bold;
+    letter-spacing: 0.1em;
+    @include relative-font-size(.7);
+    text-transform: uppercase;
+    background-color: white;
+  }
+}
+
+.provider-wrap.hidden {
+  display: none;
+}
+
+.people-filter {
+  padding: 12px 0;
+  border-top: 1px solid $grey-color-light;
+  border-bottom: 1px solid $grey-color-light;
+  margin-bottom: $spacing-unit/2;
 }

@@ -1,0 +1,49 @@
+---
+layout: default
+---
+<article class="post">
+  <header class="post-header" style="margin-top:30px;">
+    <h1 class="post-title">{{ page.title | escape }}, {{ page.position | escape }}</h1>
+  </header>
+
+  {%- if page.phone or page.email or page.link -%}
+  <div class="contact-info">
+    {%- if page.phone -%}
+    <div>
+      <i class="icon">&#9742;</i> <a href="tel:{{ page.phone }}"> {{ page.phone }}</a>
+    </div>
+    {%- endif -%}
+    {%- if page.email -%}
+    <div>
+      <i class="icon">&#9993;</i> <a href="mailto:{{ page.email }}">{{ page.email }}</a>
+    </div>
+    {%- endif -%}
+    {%- if page.link -%}
+    <div>
+      <i class="icon">&#127760;</i> <a href="{{ page.link }}" target="_blank">{{ page.link }}</a>
+    </div>
+    {%- endif -%}
+  </div>
+  {%- endif -%}
+
+  <div class="post-content">
+    {%- if page.image -%}
+    {% capture myimage %}{{- page.image -}}{% endcapture %}
+    {% capture mydescription %}{{- page.title -}}{% endcapture %}
+    {% include image.html url=myimage description=mydescription %}
+    {%- endif -%}
+
+    {{ content }}
+
+    {%- if page.availability -%}
+    <div class="availability">
+      <span>availability</span>
+      {{ page.availability }}      
+    </div>
+    {%- endif -%}
+  </div>
+
+  <div class="back-link">
+    <a href={{page.return}}>&larr; back to all</a>
+  </div>
+</article>

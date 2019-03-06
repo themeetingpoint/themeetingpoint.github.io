@@ -5,7 +5,13 @@ permalink: /psychotherapy/
 image: /assets/meditation.jpg
 ---
 
-The Meeting Point is a collective of independent body workers and psychotherapists. Although some of the focuses of the collective include working with GLBT individuals, disability, and trauma, each of our psychotherapists has their own interests and specializations. We invite you to visit their individual pages to learn more about their background, availability, and what insurance they take, so that you may reach out directly to anyone who seems like they might be a good fit.
+The Meeting Point is a collective of independent body workers and psychotherapists. Although many Meeting Point therapists specialize in working with LGBTQI individuals, disability, and trauma, each of our psychotherapists have their own interests and areas of expertise. We invite you to **visit their individual pages below** to learn more about their background, availability, and what insurance they take, so that you may reach out directly to anyone who seems like they might be a good fit.
 
-If you are interested in being seen for psychotherapy at The Meeting Point but do not know exactly what you are looking for in a provider, please call our main referral line at : 877-207-8479. There, you can leave a message with your contact information, availability, and insurance, and we will try to match you up with a provider who fits your needs.
+If you are interested in being seen for psychotherapy at The Meeting Point but do not know exactly what you are looking for in a provider, please call our main referral line at : **877-207-8479**. Please leave a message with the following:
+* your insurance information
+* availability for appointments
+* any specific preferences for therapy
+* contact information
+ 
+If a Meeting Point provider has availablity and matches your other criteria, you will receive an update from us using the contact information you provided in the message. If you do not receive a response, it is likely because no one currently has availability. Please try leaving a message again in another 1-2 months, or contact providers individually.
 
