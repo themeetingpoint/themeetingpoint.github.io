@@ -4,7 +4,8 @@ layout: default
 <article class="post">
   {% capture myimage %}{{- page.image -}}{% endcapture %}
   {% capture mydescription %}{{- page.title -}}{% endcapture %}
-  {% include heroImage.html url=myimage description=mydescription %}
+  {% capture mytop %}{{- page.top -}}{% endcapture %}
+  {% include heroImage.html url=myimage description=mydescription top=mytop %}
 
   <header class="post-header">
     <h1 class="post-title">{{ page.title | escape }}</h1>
@@ -42,6 +43,7 @@ layout: default
   <br>
   {%- endif -%}
 
+  {% comment %}
   {%- if page.title == 'Events' and site.posts.size > 0 -%}
     <ul class="post-list">
       {%- for post in site.posts -%}
@@ -62,4 +64,5 @@ layout: default
 
     <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
   {%- endif -%}
+  {% endcomment %}
 </article>

@@ -5,7 +5,7 @@ list_title: Events
 layout: home
 ---
 
-{% include heroImage.html url="/assets/themeetingpointsign.jpg" description="The Meeting Point" %}
+{% include heroImage.html url="/assets/themeetingpointsign.jpg" description="The Meeting Point" top="78"%}
 # The Meeting Point is a multi-dimensional community center for healing and growth
 
 We are a collaboration of independent providers who know that oppression is pathology and that social justice heals.

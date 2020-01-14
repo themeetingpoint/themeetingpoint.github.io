@@ -327,3 +327,30 @@
   border-bottom: 1px solid $grey-color-light;
   margin-bottom: $spacing-unit/2;
 }
+
+.hero {
+  width: 100%;
+  height: 240px;
+  overflow: hidden;
+  position: relative;
+  margin-bottom: 1em;
+  z-index: -1;
+
+  img {
+    position: absolute;
+    width: 100%;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+}
+@include media-query($on-palm) {
+  .hero {
+    position: inherit;
+    height: auto;
+
+    img {
+      position: inherit;
+      transform: none;
+    }
+  }
+}

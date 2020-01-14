@@ -3,15 +3,17 @@ layout: page
 title: Events
 permalink: /events/
 image: /assets/tmpppl.jpg
+top: 60
 ---
 
 The Meeting Point offers workshops and trainings adapted to the needs and interests of our multifaceted communities and selves. Please see below for upcoming and past events.
 
 ## Upcoming Events
+There are currently no upcoming events, please check back soon!
 
+## Past Events
 
 ### The Meeting Point's Ten Year Anniversary Party!
-
 Sunday, March 31, 2019<br>
 5pm - 9pm<br>
 Bella Luna & The Milky Way<br>
@@ -26,11 +28,8 @@ It's The Meeting Point's 10 year anniversary, friends! Woo hoo! Join us in celeb
 
 Tickets are limited. Please RSVP via the Eventbrite link above.
 
-## Past Events
-
 
 ### Radical Wellness Fair
-
 Sunday, February 24, 2019<br>
 1pm - 4pm<br>
 The Meeting Point<br>

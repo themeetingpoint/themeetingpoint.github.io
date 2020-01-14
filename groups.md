@@ -3,6 +3,7 @@ layout: page
 title: Groups
 permalink: /groups/
 image: /assets/crafts.jpg
+top: 80
 ---
 
 The Meeting Point runs both short-term and long-term groups for members of our community. Groups are particularly powerful forms of therapy because individuals are presented with an opportunity to share their strengths and struggles in a confidential setting that is designed to reinforce the value of relationships through both professional and peer.

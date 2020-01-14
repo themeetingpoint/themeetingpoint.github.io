@@ -74,6 +74,6 @@ window.APP = {}
 // })()
 
 // Kickoff
-document.addEventListener('DOMContentLoaded', function() { 
-  APP.filterer = new APP.Filterer()
-})
+// document.addEventListener('DOMContentLoaded', function() {
+//   APP.filterer = new APP.Filterer()
+// })
