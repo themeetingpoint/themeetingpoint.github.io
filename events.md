@@ -22,13 +22,12 @@ Bella Luna & The Milky Way<br>
 284 Amory Street<br> 
 Boston, MA 02130
 
-https://www.eventbrite.com/e/the-meeting-point-10-year-anniversary-celebration-tickets-56709329130
+<https://www.eventbrite.com/e/the-meeting-point-10-year-anniversary-celebration-tickets-56709329130>
 
 It's The Meeting Point's 10 year anniversary, friends! Woo hoo! Join us in celebrating a wonderous decade of healing, art, community, and social action. Bella Luna will provide delicious snacks. And there will be music, fun, and our delightful company, of course. Drinks will be available for purchase.
 
 Tickets are limited. Please RSVP via the Eventbrite link above.
 
-***
 
 ### Radical Wellness Fair
 Sunday, February 24, 2019<br>
@@ -37,7 +36,7 @@ The Meeting Point<br>
 3464 Washington Street<br>
 Jamaica Plain, MA 02130
 
-https://www.eventbrite.com/e/radical-wellness-fair-rediscovering-your-self-in-community-tickets-54008293259#
+<https://www.eventbrite.com/e/radical-wellness-fair-rediscovering-your-self-in-community-tickets-54008293259#>
 
 Let's be honest, folks. February in Boston is terrible...why is it still winter?!
 
