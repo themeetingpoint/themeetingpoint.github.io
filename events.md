@@ -11,6 +11,8 @@ The Meeting Point offers workshops and trainings adapted to the needs and intere
 ## Upcoming Events
 There are currently no upcoming events, please check back soon!
 
+<br>
+
 ## Past Events
 
 ### The Meeting Point's Ten Year Anniversary Party!
