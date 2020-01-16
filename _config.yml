@@ -14,14 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: The Meeting Point
-email: themeetingpoint@gmail.com
+email: themeetingpointboston@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The Meeting Point is a collective of independent body workers and
   mental health practitioners who believe support and acceptance of
   complicated bodies is a social justice issue.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://themeetingpoint.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-phone: "(877) 207-8479"
 address: "3464 Washington Street, JP"
 addressLink: "https://goo.gl/maps/pHSDaDkRcBt"
 # twitter_username: jekyllrb
