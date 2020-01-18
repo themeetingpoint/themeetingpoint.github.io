@@ -39,7 +39,7 @@ We will be offering:
 
 We look forward to seeing you for this radical approach to winter survival.
 
-This event is free and open to the public. Please RSVP with a free ticket, which gives us an idea of how many folks to expect for the fair. TAlso note, some of the services are first-come, first-serve and require on-site sign-up (e.g. chair massages) so consider coming early and put your names down, then explore the drop-in activities while you wait! Otherwise, join us whenever the mood strikes—we're here for you!
+This event is free and open to the public. Please RSVP with a free ticket, which gives us an idea of how many folks to expect for the fair. Also note, some of the services are first-come, first-serve and require on-site sign-up (e.g. chair massages) so consider coming early and put your names down, then explore the drop-in activities while you wait! Otherwise, join us whenever the mood strikes—we're here for you!
 ____________
 
 Transportation and Accessibility: The Meeting Point is close to various bus stops (e.g. 42) and the Green Street MBTA subway station (Orange Line). Our space has gender neutral, single-stall restrooms and is wheelchair accessible on the first floor while the 2nd floor has a chairlift for access. There is free on-street parking as well (please do not park in the Meeting Point parking lot). 
