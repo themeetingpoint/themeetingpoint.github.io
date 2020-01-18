@@ -22,19 +22,20 @@ February in Boston is kinda the worst! It's windy and icy and it gets dark in th
 But don't despair! We'd like to invite you to brave the weather and join The Meeting Point community for adventures and (re)discovery in wellness and wholeness!
 
 We will be offering:
-chair massages
-acupuncture
-meditation
-crafts
-yoga
-snacks
-art therapy
-information about Forest Therapy
-Zumba
-Rapid HIV Testing
-Prantic (Energy) Healing
 
-                                       and more!!
+* chair massages
+* acupuncture
+* meditation
+* crafts
+* yoga
+* snacks
+* art therapy
+* information about Forest Therapy
+* Zumba
+* Rapid HIV Testing
+* Prantic (Energy) Healing
+
+* We will be collecting donations for Puerto Rico Disaster Relief
 
 We look forward to seeing you for this radical approach to winter survival.
 This event is free and open to the public. Please RSVP with a free ticket, which gives us an idea of how many folks to expect for the fair.
