@@ -6,7 +6,7 @@ specialty: Massage therapy
 phone: (617) 821-2875
 link: https://www.imanimassage.com/
 image: /assets/people/christine-rose.jpg
-teaser: I am trained in a variety of modalities including Sport Massage Therapy, Prenatal, and Infant Massage Therapies. She/her/hers
+teaser: I am trained in a variety of modalities including Sport Massage Therapy, Prenatal, and Infant Massage Therapies. 
 return: /bodywork/
 ---
 
