@@ -4,7 +4,7 @@ name: Karuna O’Donnell
 position: M.Ed., E-RYT
 specialty: Yoga instruction
 image: /assets/people/karuna-odonnell.jpg
-teaser: My intent is to offer consistent, high quality, trauma and research informed learning experiences that reflect and create a culture of respect and dignity.
+teaser: My intent is to offer consistent, high quality, trauma and research informed learning experiences that reflect and create a culture of respect and dignity. She/her/hers
 return: /bodywork/
 ---
 
