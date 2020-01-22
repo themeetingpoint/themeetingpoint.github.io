@@ -7,7 +7,7 @@ phone: 617-681-7719
 email: 3rmassages@gmail.com
 link: https://www.3rmassages.com/
 image: /assets/people/default.png
-teaser: A Veteran of the United States Marine Corps, Karland has always and continues to have a passion for service which eventually lead him to pursue a career in the Massage and Bodywork field.
+teaser: A Veteran of the United States Marine Corps, Karland has always and continues to have a passion for service which eventually lead him to pursue a career in the Massage and Bodywork field. He/him/his
 return: /bodywork/
 ---
 
