@@ -10,7 +10,7 @@ The Meeting Point is a collective of independent body workers and psychotherapis
 
 If you are interested in being seen for psychotherapy at The Meeting Point but do not know exactly what you are looking for in a provider, please email **themeetingpointboston@gmail.com** . 
 Please include the following information:
-* Name, Preferred name and pronouns
+* Preferred name and pronouns
 * Age
 * How you identify
 * Any accessibility needs
