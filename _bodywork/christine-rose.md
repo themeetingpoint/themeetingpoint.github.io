@@ -6,7 +6,7 @@ specialty: Massage therapy
 phone: (617) 821-2875
 link: https://www.imanimassage.com/
 image: /assets/people/christine-rose.jpg
-teaser: I have always known that I was meant to impact peoples’ lives, touch their souls, and empower them to be the best they can be.
+teaser: She/her/hers. I am trained in a variety of modalities including Sport Massage Therapy, Prenatal, and Infant Massage Therapies. 
 return: /bodywork/
 ---
 
