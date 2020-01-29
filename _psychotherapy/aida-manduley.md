@@ -7,7 +7,7 @@ phone: (401) 227-0769
 email: manduley@bu.edu
 image: /assets/people/aida-manduley.png
 teaser: For many of us, finding help (or even asking for it) isn’t easy. Whatever your reasons for pursuing counseling/ therapy, my goal is to collaborate with you on the path to wellness and fulfillment.
-insurance: Responsive fee system, sliding scale
+insurance: Responsive fee system, sliding scale, self-pay, 
 availability: I currently have openings for couples. If you are interested in individual counseling, please contact me for availability.
 return: /psychotherapy/
 ---
