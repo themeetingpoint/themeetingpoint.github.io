@@ -24,7 +24,7 @@ Dawn is a bicultural bilingual social worker and has been working in collaborati
 ---
 <br/>
 
-These are some groups that have run in the past. Please keep checking back here to see about future groups here at TMP. 
+These are some groups that have run in the past. Please keep checking back here to see about future groups at TMP. 
 
 #### All-Gender Process and Support Group
 Finding your place and the gender spectrum can be complex, confusing, joyful, overwhelming and spectacular. Building your Self and Home on your spot on the spectrum can offer a kind of deepening of self that is like nothing else. Whether you are questioning, building or remodeling your relationship to gender all are welcome here. Group meets every other Monday from 6:30-8 PM.
