@@ -5,11 +5,42 @@ position: L.Ac.,MAOM
 specialty: Acupuncture
 phone: 617-528-0252
 email: acu.indigo@gmail.com
+www.indigo-acupuncture.com
 image: /assets/people/default.png
 teaser: In my treatments I utilize different techniques and styles depending on the individual's symptoms and constitution, including cupping, gwa sha, and moxibustion. 
 return: /bodywork/
 ---
 
-I received my master's from The New England School of Acupuncture (now MCPHS University) here in Boston, specializing in Chinese and Japanese Acupuncture as well as Chinese Herbal Medicine.  I'm excited to offer private acupuncture sessions at The Meeting Point. In my treatments I utilize different techniques and styles depending on the individual's symptoms and constitution, including cupping (think Michael Phelps at the Olympics), gwa sha, and moxibustion. For those unfamiliar with acupuncture, it is part of an ancient healing modality that has been used for more than 2,500 years. What I appreciate most about the medicine is that it deeply understands the intricacies and interconnectedness between mind, body and spirit/shen. On a physiological level, acupuncture reduces inflammation, increases blood flow, regulates the nervous system, lessens pain sensitivity and improves emotional well-being through its effect on endorphins, serotonin and dopamine. For this reason, it can be a helpful for those struggling with stress, anxiety, depression or chronic pain. Other commonly treated complaints that I see include: fatigue, digestive issues, women's health issues, insomnia, allergies, trauma/PTSD, addiction, immune boosting/common colds and many more. 
+Miranda Gerzon, LAc – founder of Indigo Acupuncture – is a Licensed Acupuncturist as certified by the Board of Registration in Medicine’s Committee on Acupuncture of the Commonwealth of Massachusetts. She received her Master of Acupuncture and Oriental Medicine (MAOM) from the New England School of Acupuncture in Newton, MA, specializing in Japanese style acupuncture and Chinese Herbal Medicine.
 
-I currently offer a sliding scale and am unable to accept insurance plans at this time. 
+She is honored to serve the community and offer acupuncture and moxibustion treatments at The Meeting Point.
+
+For inquiries and appointments,
+
+email acu.indigo@gmail.com
+
+or call 617.528.0253
+
+www.indigo-acupuncture.com
+
+Commonly Treated Complaints Include:
+
+* Stress/Anxiety/Depression
+
+* Allergies/Asthma/ sinus relief
+
+* Boost immune system/ prevent and expel common cold
+
+* Trauma/PTSD
+
+* BS/digestive distress
+
+* Constipation/Diarrhea
+
+* Women’s Health (menopause/hot flashes & night sweats, menstrual regulation, cramping etc.)
+
+* Back pain, sciatica, knee pain, neck pain, TMJ, any pain
+
+* Fatigue
+
+
