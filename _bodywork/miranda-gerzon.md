@@ -5,7 +5,7 @@ position: L.Ac.,MAOM
 specialty: Acupuncture
 phone: 617-528-0252
 email: acu.indigo@gmail.com
-www.indigo-acupuncture.com
+link: www.indigo-acupuncture.com
 image: /assets/people/default.png
 teaser: In my treatments I utilize different techniques and styles depending on the individual's symptoms and constitution, including cupping, gwa sha, and moxibustion. 
 return: /bodywork/
