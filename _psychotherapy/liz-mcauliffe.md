@@ -3,7 +3,7 @@ layout: subpage
 name: Liz Mcauliffe
 position: LMHC
 phone: 617-379-3940
-image: /assets/people/
+image: /assets/people/LIZ MCAULLIFE.jpeg
 teaser: My areas of interest include: Substance abuse, domestic violence, anxiety issues, self-esteem issues, anger management, GBLT, dual diagnosis. 
 insurance: self-pay, sliding scale
 insurance: Responsive fee system, sliding scale, self-pay, 
