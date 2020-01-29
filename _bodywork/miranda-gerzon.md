@@ -1,7 +1,7 @@
 ---
 layout: subpage
 name: Miranda Gerzon
-position: L.Ac.
+position: L.Ac.,MAOM
 specialty: Acupuncture
 phone: 617-528-0252
 email: acu.indigo@gmail.com
