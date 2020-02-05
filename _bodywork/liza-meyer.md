@@ -6,10 +6,10 @@ specialty: Yoga
 Instagram: @liza.learning.yoga
 email: liza.learning.yoga@gmail.com
 link: https://www.yogawithliza.com/
-
 teaser: Liza's intention as a yoga teacher is to offer opportunities for you to practice the skills of curiosity and compassion while exploring your physical and mental self.
 return: /bodywork/
 ---
+
 
 Liza's intention as a yoga teacher is to offer opportunities for you to practice the skills of curiosity and compassion while exploring your physical and mental self. Practicing with Liza, you can expect invitations to tune into breathing & feeling and to make choices that feel right for you, as well as ideas for pose variations and ways to use yoga props.
 
