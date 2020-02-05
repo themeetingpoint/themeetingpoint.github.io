@@ -5,7 +5,6 @@ position: Ph.D., LICSW
 link: https://www.bostonliberationhealth.org/
 phone: (781)-462-1265
 email: dawnbelkin@gmail.com
-image:
 teaser: Dawn has extensive experience working with immigrants and marginalized communities and is one of the founding members of the Boston Liberation Health Group
 insurance: self-pay, sliding scale
 availability: I currently offer appointments on Fridays from 1pm-6pm. Please contact me directly for current openings. 
