@@ -2,8 +2,7 @@
 layout: subpage
 name: Liza Meyer
 position: CYT-200
-specialty: Yoga
-Instagram: @liza.learning.yoga
+specialty: yoga
 email: liza.learning.yoga@gmail.com
 link: https://www.yogawithliza.com/
 teaser: Liza's intention as a yoga teacher is to offer opportunities for you to practice the skills of curiosity and compassion while exploring your physical and mental self.
