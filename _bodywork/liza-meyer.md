@@ -2,7 +2,7 @@
 layout: subpage
 name: Liza Meyer
 position: CYT-200
-specialty: yoga
+specialty: Yoga Instruction
 email: liza.learning.yoga@gmail.com
 link: https://www.yogawithliza.com/
 image: /assets/IMG_4549 (1).JPG
