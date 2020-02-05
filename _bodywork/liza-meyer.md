@@ -5,6 +5,7 @@ position: CYT-200
 specialty: yoga
 email: liza.learning.yoga@gmail.com
 link: https://www.yogawithliza.com/
+image: /assets/
 teaser: Liza's intention as a yoga teacher is to offer opportunities for you to practice the skills of curiosity and compassion while exploring your physical and mental self.
 return: /bodywork/
 ---
