@@ -19,5 +19,5 @@ Please include the following information:
 * Any specific preferences for therapy
 * Contact Information
  
-If a Meeting Point provider has availablity and matches your other criteria, you will receive an update from us using the contact information you provided in the message. If you do not receive a response, it is likely because no one currently has availability. Please try leaving a message again in another 1-2 months, or contact providers individually.
+If a Meeting Point provider has availablity and matches your other criteria, you will receive an update directly from the provider using the contact information you provided in the message. If you do not receive a response, it is likely because no one currently has availability. Please try leaving a message again in another 1-2 months, or contact providers individually.
 
