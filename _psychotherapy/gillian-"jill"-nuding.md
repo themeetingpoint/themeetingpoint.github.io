@@ -16,10 +16,10 @@ She also enjoys incorporating humor and creativity in her clinical practice.
 
 
 
-Currently Jill is able to take clients with Blue Cross Blue Shield and private pay. 
+Currently, Jill is not taking on new clients. Please check back for an update.
 
 Please contact her to learn more and to schedule an appointment:
 
-617-435-1101
+
 
 jill.licsw@gmail.com
