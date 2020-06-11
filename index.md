@@ -12,7 +12,7 @@ The Meeting Point collaborative acknowledges that the world is a different place
 
 We know that words are not enough. Hope is something that must be practiced. Change is possible, but it will take ongoing commitment. It is vital that space be made to process, heal, and act. Complacency is a passive form of violence that we can no longer afford.
 
-We want to show up for you. We want to keep having this conversation in the year/years to come, and we want it to be about something that you want and need. Tell us. What kinds of opportunities and experiences can The Meeting Point facilitate to continue addressing and combating racism in all of its many forms? You are welcome to email us at tmpideas@gmail.com to share your feedback and suggestions. We will review your responses to inform the initiatives that we will take over the next several months. We are holding ourselves accountable to you, our community.
+We want to show up for you. We want to keep having this conversation in the year/years to come, and we want it to be about something that you want and need. Tell us. What kinds of opportunities and experiences can The Meeting Point facilitate to continue addressing and combating racism in all of its many forms? You are welcome to email us at "tmpideas@gmail.com" to share your feedback and suggestions. We will review your responses to inform the initiatives that we will take over the next several months. We are holding ourselves accountable to you, our community.
 
 We are listening.
 
