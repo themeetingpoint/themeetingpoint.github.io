@@ -1,9 +1,9 @@
 ---
 layout: subpage
-name: Melissa McNish
+name: Melissa MacNish Nishman
 position: LMHC
 link: https://www.sayftee.com/
-phone: 857-719-4237
+phone: 617-203-6645
 email: melissa@sayftee.com
 image: /assets/people/Midi_edit.jpg
 teaser: She believes strongly in the power of the therapeutic relationship to create a safe space for individuals, couples and families to explore patterns and the new possibilities that begin to emerge.
@@ -12,7 +12,7 @@ availability: Day time only
 return: /psychotherapy/
 ---
 
-Melissa MacNish (Pronouns: she/her/hers) is a licensed mental health counselor with over 12 years of clinical experience.  Receiving her Master’s Degree in Clinical Mental Health Counseling from Lesley University in 2007.  Melissa holds extensive experience working in the LGBTQ+ community. She runs SAYFTEE out of The Meeting Point in Jamaica Plain, MA.
+Melissa MacNish Nishman (Pronouns: she/her/hers) is a licensed mental health counselor with over 12 years of clinical experience.  Receiving her Master’s Degree in Clinical Mental Health Counseling from Lesley University in 2007.  Melissa holds extensive experience working in the LGBTQ+ community. She runs SAYFTEE out of The Meeting Point in Jamaica Plain, MA.
 
 Melissa’s clinical work is focused on working with families, couples and running groups.  She uses an eclectic relational approach that is rooted in systems theory to support clients through growth and change. She believes strongly in the power of the therapeutic relationship to create a safe space for individuals, couples and families to explore patterns and the new possibilities that begin to emerge. Melissa believes that collaboration, creativity, reflection and curiosity are fundamental to the therapeutic process and self-empowerment. Melissa has post-graduate training in existential, object relations, family and couples therapy.
 
