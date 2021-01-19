@@ -10,6 +10,42 @@ The Meeting Point offers workshops and trainings adapted to the needs and intere
 
 ## Upcoming Events
 
+### Radical Wellness Fair: Virtual Edition
+Sunday, February 14, 2021<br>
+1pm - 4pm<br>
+Online!
+
+We can't think of a better way to spend Valentines Day than enjoying some free and engaging opportunities to relax and take care of ourselves...especially after this past year.
+
+Everything is FREE and geared towards fostering wellness and resilience. Some (not all) of what will be offered on Feb 14 includes:
+
+* Guided chair yoga
+* Self-massage
+* Mindfulness meditation
+* Practicing grounding techniques for your brain and body
+* Zumba
+* Story time for grown-ups!
+* Discussion around sexual wellness and positivity
+
+Please reserve a free ticket on [Eventbrite](https://www.eventbrite.com/e/radical-wellness-fair-virtual-edition-tickets-136851162511), and you will receive an email update in the week leading up to the Fair with information on specific times for workshop sessions, with links for joining via Zoom, Google Meet, etc. 
+
+---
+
+## Past Events
+
+### The Meeting Point's Ten Year Anniversary Party!
+Sunday, March 31, 2019<br>
+5pm - 9pm<br>
+Bella Luna & The Milky Way<br>
+284 Amory Street<br> 
+Boston, MA 02130
+
+<https://www.eventbrite.com/e/the-meeting-point-10-year-anniversary-celebration-tickets-56709329130>
+
+It's The Meeting Point's 10 year anniversary, friends! Woo hoo! Join us in celebrating a wonderous decade of healing, art, community, and social action. Bella Luna will provide delicious snacks. And there will be music, fun, and our delightful company, of course. Drinks will be available for purchase.
+
+Tickets are limited. Please RSVP via the Eventbrite link above.
+
 ### Radical Wellness Fair 
 Sunday, February 9, 2020<br>
 1pm - 4pm<br>
@@ -49,24 +85,6 @@ Transportation and Accessibility: The Meeting Point is close to various bus stop
 Co-sponsored by: Imani Massage, 4 Corners Yoga + Wellness, and The Lesbians Of Color Symposium (LOCS) Collective 
 
 <https://www.eventbrite.com/e/radical-wellness-fair-rediscovering-your-self-in-community-tickets-87207135891>
-
----
-
-## Past Events
-
-### The Meeting Point's Ten Year Anniversary Party!
-Sunday, March 31, 2019<br>
-5pm - 9pm<br>
-Bella Luna & The Milky Way<br>
-284 Amory Street<br> 
-Boston, MA 02130
-
-<https://www.eventbrite.com/e/the-meeting-point-10-year-anniversary-celebration-tickets-56709329130>
-
-It's The Meeting Point's 10 year anniversary, friends! Woo hoo! Join us in celebrating a wonderous decade of healing, art, community, and social action. Bella Luna will provide delicious snacks. And there will be music, fun, and our delightful company, of course. Drinks will be available for purchase.
-
-Tickets are limited. Please RSVP via the Eventbrite link above.
-
 
 ### Radical Wellness Fair
 Sunday, February 24, 2019<br>
