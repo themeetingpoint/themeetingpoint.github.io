@@ -7,7 +7,7 @@ phone: (401) 227-0769
 email: manduley@bu.edu
 image: /assets/people/IMG_6328.jpg
 teaser: For many of us, finding help (or even asking for it) isn’t easy. Whatever your reasons for pursuing counseling/ therapy, my goal is to collaborate with you on the path to wellness and fulfillment.
-insurance: Responsive fee system, sliding scale, self-pay, 
+insurance: sliding scale, self-pay, 
 availability: I currently do not have any openings. Please check back here for updates. 
 return: /psychotherapy/
 ---
