@@ -11,7 +11,7 @@ availability: At this time, my practice is unfortunately full. But please feel f
 return: /psychotherapy/
 ---
 
-Because my background is primarily in non­traditional clinical settings, I tend to approach my work non­traditionally. My work with each client is integrative and dynamic. My “home base” is in contemporary feminist psychodynamic therapy, but I utilize techniques from CBT, DBT, mindfulness, interpersonal neurobiology and sensorimotor psychotherapy to tailor my approach to a client’s presenting needs.
+Because my background is primarily in non­traditional clinical settings, I tend to approach my work non­traditionally. My work with each client is integrative and dynamic. My “home base” is in contemporary feminist psychodynamic therapy, but I utilize techniques from EMDR, Internal Family Systems (IFS), mindfulness, interpersonal neurobiology and sensorimotor psychotherapy to tailor my approach to a client’s presenting needs.
 
 I’m a firm believer that a person will not feel safe exploring difficult areas in therapy if they don’t feel comfortable with and understand the human sitting across from them. Therefore, I want you to see my personality and sense of humor as we collaborate, so that we can build a strong working relationship built on trust and mutual understanding. I am an active therapist! I don’t like sitting back and asking “how does that make you feel?” I like to offer interpretations, suggestions and questions with your input to assist us both in reaching a deeper understanding. Most of all, I am open to your feedback about whether things are working for you.
 
