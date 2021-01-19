@@ -7,7 +7,7 @@ phone: 617-203-6645
 email: melissa@sayftee.com
 image: /assets/people/Midi_edit.jpg
 teaser: She believes strongly in the power of the therapeutic relationship to create a safe space for individuals, couples and families to explore patterns and the new possibilities that begin to emerge.
-insurance: Blue Cross Blue Shield, self-pay, and can provide information you would need to submit if you have out of network benefits with other insurances.  
+insurance: Blue Cross Blue Shield, self-pay, out-of-network  
 availability: Day time only
 return: /psychotherapy/
 ---
