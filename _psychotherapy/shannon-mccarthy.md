@@ -5,7 +5,7 @@ position: LICSW
 phone: 617-524-4666
 image:
 teaser: My expertise is in counseling people through crisis, trauma and other life transitions by helping them claim their personal power so they can become more fully themselves.
-insurance: Blue Cross Blue Shield, United Behavioral Health, Harvard Pilgrim Healthcare, Tufts commercial, self-pay, sliding scale
+insurance: Blue Cross Blue Shield, United Healthcare, Harvard Pilgrim Healthcare, Tufts commercial, self-pay, sliding scale
 return: /psychotherapy/
 ---
 
