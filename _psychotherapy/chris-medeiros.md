@@ -7,8 +7,8 @@ phone: 617-942-0141
 email: chrismedeiroscounseling@gmail.com
 image: /assets/people/chris-medeiros.jpg
 teaser: His approach incorporates mindfulness/self-compassion practice, psychodynamic and cognitive behavior therapy, and spiritual development.
-insurance: Blue Cross Blue Shield, self-pay, sliding scale
-availability: I am in the process of expanding my practice. Please contact me for current openings.
+insurance: Blue Cross Blue Shield, Cigna, private pay, out-of-network
+availability: I currently have 1pm available on Mondays and Thursdays, please reach out to me directly to set up an initial consultation.
 return: /psychotherapy/
 ---
 
