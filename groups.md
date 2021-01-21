@@ -21,11 +21,14 @@ This circle is a mix of storytelling, developing new practices and frameworks, r
 
 **DETAILS**
 
-Who: Open to anyone who identifies as a man. The circle is capped at 10 men.
-When: 8-Week session. 2.4.20-3.25.20. Thursday nights, 7:00-8:30p EST
-Where: It is virtual, so wherever you are.
-Cost: $200 is the suggested fee. Pay what you can. If you can offer more, please consider doing so to offset a lower-income individual.
-Questions: Contact Marlo Pedroso @ pedroso.marlo@gmail.com
+<ul>
+<li>Who: Open to anyone who identifies as a man. The circle is capped at 10 men.</li>
+  <liLWhen: 8-Week session. 2.4.20-3.25.20. Thursday nights, 7:00-8:30p EST</li>
+  <li>Where: It is virtual, so wherever you are.</li>
+<li>Cost: $200 is the suggested fee. Pay what you can. If you can offer more, please consider doing so to offset a lower-income individual.</li>
+  <li>Questions: Contact Marlo Pedroso @ pedroso.marlo@gmail.com</li>
+  </ul>
+  
 
 **BIO**
 
