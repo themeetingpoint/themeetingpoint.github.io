@@ -6,6 +6,7 @@ phone: 617-524-4666
 image:
 teaser: My expertise is in counseling people through crisis, trauma and other life transitions by helping them claim their personal power so they can become more fully themselves.
 insurance: Allways, Blue Cross Blue Shield, United Healthcare, Optum, Harvard Pilgrim Healthcare, Tufts commercial, private pay, sliding scale, out-of-network
+availability: At this time, my practice is unfortunately full. 
 return: /psychotherapy/
 ---
 
