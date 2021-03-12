@@ -28,7 +28,7 @@ Our services are based on the convictions that:
 * All people are entitled to the expression and validation of our significant relationships.
 * And all people are entitled to services that are informed and responsive to all of who we are.
 
-<b>Are you a behavioral health provider or body worker who is looking for office space and community?</b>
+# Are you a behavioral health provider or body worker who is looking for office space and community?
 
 <b>What we offer:</b>  Beautifully furnished, wheelchair-accessible offices and plant (and character)-filled waiting areas a short distance from various T and bus stops, shared fax machine, printer, kitchenette, and community/group space. Internal listserv and referral opportunities. An opportunity for autonomy and community where you can establish or grow an independent practice.
 
