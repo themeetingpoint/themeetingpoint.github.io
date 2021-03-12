@@ -48,7 +48,7 @@ Our services are based on the convictions that:
 <b>Priorities:</b> Though we can be creative, we are prioritizing people invested in the community aspect and creating a collaborative space instead of merely renting an office. We are particularly excited to welcome clinicians from underrepresented communities, especially BIPOC.
 
 
-</b>Rates:</b>    
+<b>Rates:</b>    
 Before July, 2021:
 * $12/hour for 4 hour block per week
 * $10/hour for more than 4 hours/week
