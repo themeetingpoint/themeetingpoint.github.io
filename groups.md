@@ -24,7 +24,7 @@ group’s needs, focusing on the issues most pertinent to the participants. I gu
 
 <ul>
 <li>Who: Open to anyone who identifies as a man. The circle is capped at 10 men.</li>
-  <liLWhen: 4.15.20-6.3.20. Thursday nights. 7:00-8:30p EST. 8-Weeks.</li>
+  <li>When: 4.15.20-6.3.20. Thursday nights. 7:00-8:30p EST. 8-Weeks.</li>
   <li>Where: It is virtual (via Zoom), so wherever you are.</li>
 <li>Cost: $200 is the suggested fee. Pay what you can. If you can offer more, please consider doing so to offset a lower-income individual.</li>
   <li>Questions: Contact Marlo Pedroso (marlo@emergenceprojectboston.com)</li>
