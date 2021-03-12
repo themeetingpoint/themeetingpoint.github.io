@@ -8,25 +8,26 @@ top: 80
 
 The Meeting Point runs both short-term and long-term groups for members of our community. Groups are particularly powerful forms of therapy because individuals are presented with an opportunity to share their strengths and struggles in a confidential setting that is designed to reinforce the value of relationships through both professional and peer.
 
-### Men's Circle - Winter 2021
-This group is for men interested in creating a positive and healthy version of masculinity. It is for men struggling with old narratives of what it means to be a man. It is for guys who might feel isolated and who want to feel connected to other men and people in their lives. It is for guys interested in changing the stories we’ve all inherited about what it means to be a man; to reauthor our masculinity.
+### Men's Circle - Spring 2021
+This group is for men interested in creating a more positive and healthier version of masculinity. It’s for men struggling with the old narratives of what it means to be a man; men who feel isolated and want to be more connected.
 
-Only together can we shift out of the limiting stories that tell us we always have to be strong and in control, that we must suppress our feelings and be stoic, that we can’t speak of our challenges publicly.
+Together we can reauthor masculinity so that it serves us all. We can shift limiting stories that tell us we always have to be in control, suppress most of our feelings, and that we can’t speak of our challenges publicly.
 
-In circle, we can practice being open and honest about our struggles and our strengths, while learning from each other. We can discover ways to tame the inner critic and shame demon that keep us from relating authentically. By coming together intentionally with other men, we can find greater compassion, strength, and freedom. Through this we can improve our relationships and show up in the world with greater confidence.
+Circles are a place to practice being open about our struggles, our strengths, and visions for a better way. We will learn from each other how to tame our inner critic and the shame that prevents us from relating authentically to life. By coming together intentionally with other men we can build greater compassion, strength, and freedom. Through this process we improve our relationships and show up with greater confidence in the world.
 
 **WHAT WE WILL DO**
 
-This circle is a mix of storytelling, developing new practices and frameworks, reflection, and practice in taking care of each other. The circle is participatory; we build it together. As facilitator I aim to be present and attune to the group, focusing on issues which present as most relevant to the participants. I will offer practices that create a safe and productive space, help us to be more embodied, and support compassion and mindfulness. I will also provide suggestions for home-practice and will offer resources (readings, videos, podcasts, etc.) to integrate what we do in the group.
+Circles consist of various practices design to facilitate open dialogue and exploration. These include storytelling, reflection and meditation practice, communication skills, and practice taking care of each other. The circle is participatory. We journey together. As facilitator, attune to each
+group’s needs, focusing on the issues most pertinent to the participants. I guide us in creating a secure yet challenging space for healing and growth. I place a strong emphasis on embodiment, and the cultivation compassion and awareness. I also provide suggestions for home-practice and offer resources to integrate the work we do in the group (ex. readings, videos, podcasts.)
 
 **DETAILS**
 
 <ul>
 <li>Who: Open to anyone who identifies as a man. The circle is capped at 10 men.</li>
-  <liLWhen: 8-Week session. 2.4.20-3.25.20. Thursday nights, 7:00-8:30p EST</li>
-  <li>Where: It is virtual, so wherever you are.</li>
+  <liLWhen: 4.15.20-6.3.20. Thursday nights. 7:00-8:30p EST. 8-Weeks.</li>
+  <li>Where: It is virtual (via Zoom), so wherever you are.</li>
 <li>Cost: $200 is the suggested fee. Pay what you can. If you can offer more, please consider doing so to offset a lower-income individual.</li>
-  <li>Questions: Contact Marlo Pedroso @ pedroso.marlo@gmail.com</li>
+  <li>Questions: Contact Marlo Pedroso (marlo@emergenceprojectboston.com)</li>
   </ul>
   
 
