@@ -7,7 +7,7 @@ email: claremcbee.licsw@gmail.com
 image: /assets/people/clare-mcbee.jpg
 insurance: Blue Cross Blue Shield, Tufts commercial, Cigna, Allways, Aetna, Tufts Health Together, Tufts Health Direct, Optum, United Healthcare, self-pay, sliding scale
 teaser: I’m a firm believer that a person will not feel safe exploring difficult areas in therapy if they don’t feel comfortable with and understand the human sitting across from them.
-availability: At this time, my practice is unfortunately full. But please feel free to get in touch if you are interested in an update. 
+availability: At this time, my practice is unfortunately full and I cannot offer a waitlist. But please feel free to get in touch if you are interested in an update. 
 return: /psychotherapy/
 ---
 
