@@ -10,6 +10,24 @@ The Meeting Point offers workshops and trainings adapted to the needs and intere
 
 ## Upcoming Events
 
+### Harnessing Hope and Creativity
+Sunday, April 25, 2021<br>
+1pm - 2pm<br>
+Online! 
+
+No life can be lived without hardships and challenges.  It is impossible to escape aging, sickness, and death for all are part of life and proof of a life being lived.  How can we create the greatest value amidst life’s realities of challenge, impermanence and flux?  Come join me in learning ways to harness your creativity.  Through a system of inquiry, you will explore how to unleash your strength and courage and find hope where you thought it could not exist.  Together we will challenge self-imposed limitations and turn them around in an effort to transform your own life into one filled with hope and victory.  Celebrate your life!
+
+This is a 45-60 minute workshop that includes some larger group discussion as well as small break-outs.
+
+[Robin Haas, LICSW](https://themeetingpoint.github.io/psychotherapy/robin-haas.html) received a masters degree in social work from Simmons School of Social Work and is in private practice at The Meeting Point in Jamaica Plain, MA. Robin has done extensive work with those struggling with eating disorders, depression, anxiety, trauma, grief and loss, adoption, separation and divorce, child custody, learning disabilities, sensory motor issues, coming out, questioning identity, and life adjustment issues.
+
+Free tickets will be capped at 30 for this virtual workshop. Please reserve your free ticket on [Eventbrite](https://www.eventbrite.com/e/harnessing-hope-and-creativity-tickets-146471083955). Zoom link will only be accessible to ticket holders.
+
+
+---
+
+## Past Events
+
 ### Radical Wellness Fair: Virtual Edition
 Sunday, February 14, 2021<br>
 1pm - 4pm<br>
@@ -28,10 +46,6 @@ Everything is FREE and geared towards fostering wellness and resilience. Some (n
 * Discussion around sexual wellness and positivity
 
 Please reserve a free ticket on [Eventbrite](https://www.eventbrite.com/e/radical-wellness-fair-virtual-edition-tickets-136851162511), and you will receive an email update in the week leading up to the Fair with information on specific times for workshop sessions, with links for joining via Zoom, Google Meet, etc. 
-
----
-
-## Past Events
 
 ### The Meeting Point's Ten Year Anniversary Party!
 Sunday, March 31, 2019<br>
