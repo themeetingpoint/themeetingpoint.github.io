@@ -6,8 +6,8 @@ phone: 339-221-7605
 email: kgorelicsw@gmail.com
 image:
 teaser: Wren believes in the empowerment of therapy to help you thrive. She is engaged in and supportive of the LGBTQ community.
-insurance: Blue Cross Blue Shield, self-pay
-availability: I offer appointments on Fridays from 4pm - 8pm. Please contact me directly for current openings. 
+insurance: Blue Cross Blue Shield, Harvard Pilgrim Healthcare, United Healthcare, self-pay, sliding scale, out-of-network
+availability: At this time, my practice is unfortunately full.
 return: /psychotherapy/
 ---
 
