@@ -6,8 +6,8 @@ phone: 617-297-8613
 email: Fatimah.LMHC@gmail.com
 image:
 teaser: I am trained as a Level 1 Internal Family Systems therapist, and I fundamentally believe that healing begins with a healthy attachment to your inner self.
-insurance: Blue Cross Blue Shield, self-pay, sliding scale
-availability: I offer appointments on Tuesdays from 3:30pm - 7:30pm, and on Saturdays from 10am - 2pm. Please contact me directly for current openings. 
+insurance: Blue Cross Blue Shield, Harvard Pilgrim Healthcare, United Healthcare, self-pay, sliding scale
+availability: I see clients on Wednesdays & Thursdays (afternoons/evenings), and Saturdays (morning/early afternoon). However, at this time my practice is unfortunately full.
 return: /psychotherapy/
 ---
 
