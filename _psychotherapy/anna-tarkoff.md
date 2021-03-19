@@ -6,8 +6,8 @@ phone: 617-855-8480
 email: annatarkofflicsw@gmail.com
 image: /assets/people/anna-tarkoff.jpg
 teaser: Anna draws from many different therapeutic styles, with the idea that it is valuable both to know how and why we got here, and to learn how to act differently now.
-insurance: out-of-network, self-pay, sliding scale
-availability: I offer appointments on Tuesdays and Fridays, please contact me directly for current openings. 
+insurance: Blue Cross Blue Shield, Tufts commercial, out-of-network, self-pay, sliding scale
+availability: At this time, my practice is unfortunately full. 
 return: /psychotherapy/
 ---
 
