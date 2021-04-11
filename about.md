@@ -5,7 +5,7 @@ permalink: /about/
 image: /assets/themeetingpoint.jpg
 ---
 
-The Meeting Point is a collective of independent body workers and mental health practitioners who believe support and acceptance of complicated bodies is a social justice issue. As such, we are committed to meeting the needs of underserved populations, particularly GLBTQ identified individuals, people who have experienced trauma, and those with physical and/or emotional disabilities.
+The Meeting Point is a collective of independent body workers and mental health practitioners who believe support and acceptance of complicated bodies is a social justice issue. As such, we are committed to meeting the needs of underserved populations, particularly LGBTQI identified individuals, POC, people who have experienced trauma, and those with physical and/or emotional disabilities.
 
 As a holistic mind/body collective, we hope to support individuals with complicated bodies and minds in their journey through this complicated and beautiful world. We do this both by providing a home to like-minded practitioners and serving as a resource and site for community events, advocacy, and awareness.
 
