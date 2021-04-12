@@ -60,4 +60,5 @@ Starting July 1, 2021:
 <i>Note: There are service dogs (and other friendly dogs) in the building.</i>
 
 
-<b>Contact us to explore: andreasthemeetingpoint@gmail.com</b> 
+<b>Contact us to explore: andreasthemeetingpoint@gmail.com</b> or themeetingpointboston@gmail.com</b> 
+
