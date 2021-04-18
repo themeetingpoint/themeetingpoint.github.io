@@ -8,6 +8,7 @@ email: emergenceprojectboston@gmail.com
 image: /assets/people/marlo-pedroso.jpg
 teaser: Marlo has has trained extensively in evidence based approaches, and unites that knowledge with deep spiritual understand and a creative flair.
 insurance: Allways, Blue Cross Blue Shield, United Healthcare, Optum, self-pay, sliding scale, out-of-network
+any_availability: false
 availability: I have a waitlist and am happy to add clients who feel like we would be a good match and don't have urgent needs.
 return: /psychotherapy/
 ---

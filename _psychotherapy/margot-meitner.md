@@ -8,6 +8,7 @@ email: margot@margotmeitner.com
 image: /assets/people/margot-meitner.jpg
 teaser: Margot brings a warm and interactive style to her psychotherapeutic practice, which can best be described as “eclectic,” as she believes that not one type of therapy is right for everyone.
 insurance: out-of-network, self-pay, sliding scale
+any_availability: true
 availability: I am available on Tuesdays and Thursdays for appointments. I am also taking referrals for lifecycle ritual officiation such as weddings, baby namings, and transition rituations. 
 return: /psychotherapy/
 ---

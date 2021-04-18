@@ -8,6 +8,7 @@ email: melissa@sayftee.com
 image: /assets/people/Midi_edit.jpg
 teaser: She believes strongly in the power of the therapeutic relationship to create a safe space for individuals, couples and families to explore patterns and the new possibilities that begin to emerge.
 insurance: Blue Cross Blue Shield, self-pay, out-of-network  
+any_availability: true
 availability: Melissa is only accepting referrals for couples and families.
 return: /psychotherapy/
 ---

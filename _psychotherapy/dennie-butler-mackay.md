@@ -7,6 +7,7 @@ email: dennieatthemeetingpoint@gmail.com
 image: /assets/people/dennie-butler-mackay.jpg
 teaser: While Dennie draws primarily on her certification as a sensorimotor psychotherapist, her training, skillset, and intuition is grounded in a variety of other traditional and nontraditional healing approaches.
 insurance: out-of-network, self-pay, sliding scale
+any_availability: true
 availability: I am offering appointments on Saturdays. Please contact me for current openings. 
 return: /psychotherapy/
 ---

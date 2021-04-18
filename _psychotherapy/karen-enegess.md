@@ -8,6 +8,7 @@ email: Karen@HolisticPsychotherapyCenter.com
 image: /assets/people/karen-enegess.jpg
 teaser: My approach is collaborative, strengths-based, and holistic, that is, I see you as a whole person, and believe in the interconnectedness of body, mind and spirit.
 insurance: Allways, Blue Cross Blue Shield, Harvard Pilgrim Healthcare, Optum, United Healthcare, Tufts commercial, private pay, sliding scale
+any_availability: false
 availability: At this time, my practice is unfortunately full. But please feel free to get in touch if you are interested in an update.
 return: /psychotherapy/
 ---

@@ -8,6 +8,7 @@ email: chrismedeiroscounseling@gmail.com
 image: /assets/people/chris-medeiros.jpg
 teaser: His approach incorporates mindfulness/self-compassion practice, psychodynamic and cognitive behavior therapy, and spiritual development.
 insurance: Blue Cross Blue Shield, Cigna, private pay, out-of-network
+any_availability: true
 availability: I currently have 1pm available on Mondays and Thursdays, please reach out to me directly to set up an initial consultation.
 return: /psychotherapy/
 ---

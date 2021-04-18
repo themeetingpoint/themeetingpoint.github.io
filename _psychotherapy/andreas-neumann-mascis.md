@@ -7,6 +7,7 @@ email: andreasthemeetingpoint@gmail.com
 image: /assets/people/andreas-neumann-mascis.jpg
 teaser: AndreAs does individual and relationship therapy as well as group therapy, training and consultation.
 insurance: Allways, BMC Health Net, Blue Cross Blue Shield, Cigna, Tufts commercial, Harvard Pilgrim Healthcare, Optum, United Healthcare, private pay, sliding scale, out-of-network
+any_availability: false
 return: /psychotherapy/
 ---
 

@@ -37,6 +37,11 @@ layout: default
         {{ person.name }}, {{ person.position }}
       </a>
     </h2>
+    {%- if person.any_availability -%}
+      <p>❎ No availabilities at this time
+    {%- else -%}
+      <p>✅ {{ person.availability }}
+    {%- endif -%}
     <p>{{ person.teaser | escape }}</p>
   </div>
   {%- endfor -%}

@@ -7,6 +7,7 @@ phone: (781)-462-1265
 email: dawnbelkin@gmail.com
 teaser: Dawn has extensive experience working with immigrants and marginalized communities and is one of the founding members of the Boston Liberation Health Group
 insurance: self-pay, sliding scale
+any_availability: false
 availability: At this time, my practice is unfortunately full. In general, I only see clients on Fridays, between 2pm and 6pm.
 return: /psychotherapy/
 ---

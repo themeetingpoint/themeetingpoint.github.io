@@ -7,6 +7,7 @@ email: robin.haas26@gmail.com
 image: /assets/people/robin-haas.jpg
 teaser: Robin has done extensive work with those struggling with eating disorders, depression, anxiety, trauma, grief and loss, adoption, separation and divorce, child custody, learning disabilities, sensory motor issues, coming out, questioning identity, and life adjustment issues.
 insurance: Blue Cross Blue Shield, Cigna, out-of-network, private pay, sliding scale
+any_availability: false
 availability: At this time, my practice is unfortunately full. But please feel free to get in touch if you are interested in an update. 
 return: /psychotherapy/
 ---
